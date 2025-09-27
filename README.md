@@ -1,4 +1,4 @@
-# Network Distributed Storage System using GlusterFS 🚀
+# glusterVault - A Network Distributed Storage System using GlusterFS 🚀
 
 This project implements a **fault-tolerant, replicated, and distributed file system** using **GlusterFS** across multiple nodes. It ensures **data replication, consistency, and high availability**.
 
