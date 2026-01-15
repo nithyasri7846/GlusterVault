@@ -45,7 +45,7 @@ Click here to watch the working demo
 ## 📄 Research Report
 📘 **Research Documentation:**  
 The detailed research on fault-tolerant distributed storage systems is available here:  
-`reports/research.pdf`
+`reports/NDSS.pdf`
 
 ---
 
