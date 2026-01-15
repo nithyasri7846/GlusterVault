@@ -1,18 +1,61 @@
-# glusterVault - A Network Distributed Storage System  🚀
+# 🗄️ GlusterVault – A Network Distributed Storage System 🚀
 
-This project implements a **fault-tolerant, replicated, and distributed file system** using **GlusterFS** across multiple nodes. It ensures **data replication, consistency, and high availability**.
+---
 
-## 🔹 Features
-✅ Distributed and Replicated Storage  ✅ Fault Tolerance across Nodes  ✅ Consistency among the Nodes
+## 📌 Project Overview
+**GlusterVault** is a network-based distributed storage system designed to provide **fault tolerance, data replication, and high availability** across multiple nodes.  
+The system leverages **GlusterFS** to ensure consistent and reliable data storage even in the event of node failures.
 
+This project demonstrates core concepts of **distributed systems**, **storage replication**, and **fault-tolerant architecture**.
+
+---
+
+## ✨ Key Features
+- ✅ Distributed and replicated storage across multiple nodes  
+- ✅ Fault tolerance to handle node failures  
+- ✅ Data consistency and synchronization among nodes  
+- ✅ High availability of stored files  
+
+---
 
 ## 🛠️ Technologies Used
-- **GlusterFS** for distributed storage  
-- **Ubuntu/Linux** as the operating system  
-- **Python/Bash** for automation scripts  
+- **GlusterFS** – Distributed file system  
+- **Ubuntu / Linux** – Operating system for nodes  
+- **Python / Bash** – Automation and management scripts  
+
+---
+
+## 🧩 System Architecture
+The system is built using multiple virtual machines configured as:
+- Storage nodes (servers)
+- Client node for accessing the distributed volume
+
+Data is replicated across nodes to ensure reliability and fault tolerance.
+
+---
 
 ## 📽️ Demo Video
-[Click here to watch the working demo](https://youtu.be/kOYFU-wIYVE?feature=shared)
+🎥 **Working Demo:**  
+Click here to watch the working demo  
+
+*https://youtu.be/kOYFU-wIYVE?si=EL7k7veSYbUF0h-3*
+
+---
 
 ## 📄 Research Report
-- Read the full research on **fault-tolerant distributed storage** in [reports/research.pdf](reports/research.pdf)
+📘 **Research Documentation:**  
+The detailed research on fault-tolerant distributed storage systems is available here:  
+`reports/research.pdf`
+
+---
+
+## 🎯 Learning Outcomes
+- Understanding of distributed file systems  
+- Hands-on experience with GlusterFS configuration  
+- Practical implementation of fault tolerance and replication  
+- Exposure to real-world storage system design challenges  
+
+---
+
+## 📜 License
+This project is developed for academic and educational purposes.
